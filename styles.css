@@ -360,7 +360,7 @@ table {
 
 .footer p.footer-links a:hover{text-decoration:underline;}
 
-@media screen and (max-width: 713px) {
+@media screen and (max-width: 768px) {
   .intse{
     font-size:40px;
     color:rgb(31, 29, 29);
